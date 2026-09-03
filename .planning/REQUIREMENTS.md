@@ -98,42 +98,42 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| AUTH-01 | TBD | Pending |
-| AUTH-02 | TBD | Pending |
-| AUTH-03 | TBD | Pending |
-| SUBMIT-01 | TBD | Pending |
-| SUBMIT-02 | TBD | Pending |
-| SUBMIT-03 | TBD | Pending |
-| SUBMIT-04 | TBD | Pending |
-| SUBMIT-05 | TBD | Pending |
-| LIFE-01 | TBD | Pending |
-| LIFE-02 | TBD | Pending |
-| LIFE-03 | TBD | Pending |
-| LIFE-04 | TBD | Pending |
-| QUEUE-01 | TBD | Pending |
-| QUEUE-02 | TBD | Pending |
-| QUEUE-03 | TBD | Pending |
-| QUEUE-04 | TBD | Pending |
-| QUEUE-05 | TBD | Pending |
-| DETAIL-01 | TBD | Pending |
-| DETAIL-02 | TBD | Pending |
-| DETAIL-03 | TBD | Pending |
-| ASSIGN-01 | TBD | Pending |
-| ASSIGN-02 | TBD | Pending |
-| NOTIF-01 | TBD | Pending |
-| NOTIF-02 | TBD | Pending |
-| NOTIF-03 | TBD | Pending |
-| REPORT-01 | TBD | Pending |
-| REPORT-02 | TBD | Pending |
-| REPORT-03 | TBD | Pending |
-| ADMIN-01 | TBD | Pending |
-| ADMIN-02 | TBD | Pending |
-| ADMIN-03 | TBD | Pending |
+| AUTH-01 | Phase 1 | Pending |
+| AUTH-02 | Phase 1 | Pending |
+| AUTH-03 | Phase 1 | Pending |
+| SUBMIT-01 | Phase 2 | Pending |
+| SUBMIT-02 | Phase 2 | Pending |
+| SUBMIT-03 | Phase 2 | Pending |
+| SUBMIT-04 | Phase 2 | Pending |
+| SUBMIT-05 | Phase 2 | Pending |
+| LIFE-01 | Phase 3 | Pending |
+| LIFE-02 | Phase 3 | Pending |
+| LIFE-03 | Phase 3 | Pending |
+| LIFE-04 | Phase 3 | Pending |
+| QUEUE-01 | Phase 3 | Pending |
+| QUEUE-02 | Phase 3 | Pending |
+| QUEUE-03 | Phase 3 | Pending |
+| QUEUE-04 | Phase 3 | Pending |
+| QUEUE-05 | Phase 3 | Pending |
+| DETAIL-01 | Phase 3 | Pending |
+| DETAIL-02 | Phase 3 | Pending |
+| DETAIL-03 | Phase 3 | Pending |
+| ASSIGN-01 | Phase 3 | Pending |
+| ASSIGN-02 | Phase 3 | Pending |
+| NOTIF-01 | Phase 4 | Pending |
+| NOTIF-02 | Phase 4 | Pending |
+| NOTIF-03 | Phase 4 | Pending |
+| REPORT-01 | Phase 5 | Pending |
+| REPORT-02 | Phase 5 | Pending |
+| REPORT-03 | Phase 5 | Pending |
+| ADMIN-01 | Phase 6 | Pending |
+| ADMIN-02 | Phase 6 | Pending |
+| ADMIN-03 | Phase 6 | Pending |
 
 **Coverage:**
 - v1 requirements: 31 total
-- Mapped to phases: 0 (roadmap pending)
-- Unmapped: 31 ⚠️ (resolved in Step 8 — Roadmap)
+- Mapped to phases: 31
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-09-03*
